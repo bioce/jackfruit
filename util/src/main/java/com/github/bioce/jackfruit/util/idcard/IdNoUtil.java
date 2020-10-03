@@ -1,8 +1,8 @@
-package com.github.bioce.jackfruit.core.idcard;
+package com.github.bioce.jackfruit.util.idcard;
 
-import com.github.bioce.jackfruit.core.DateUtils;
-import com.github.bioce.jackfruit.core.StringUtils;
-import com.github.bioce.jackfruit.core.enums.Gender;
+import com.github.bioce.jackfruit.util.DateUtils;
+import com.github.bioce.jackfruit.util.StringUtils;
+import com.github.bioce.jackfruit.util.enums.Gender;
 
 import java.util.Date;
 import java.util.regex.Matcher;

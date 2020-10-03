@@ -1,8 +1,7 @@
-package com.github.bioce.jackfruit.core;
+package com.github.bioce.jackfruit.util;
 
 /**
  * @author bioce
- * @date 2020-04-21 12:40
  */
 public class StringUtils {
 

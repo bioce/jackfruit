@@ -1,11 +1,10 @@
-package com.github.bioce.jackfruit.core;
+package com.github.bioce.jackfruit.util;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 /**
  * @author bioce
- * @date 2020-04-21 20:30
  */
 public class MoneyUtilTest {
 

@@ -1,4 +1,4 @@
-package com.github.bioce.jackfruit.core.enums;
+package com.github.bioce.jackfruit.util.enums;
 
 /**
  * 性别

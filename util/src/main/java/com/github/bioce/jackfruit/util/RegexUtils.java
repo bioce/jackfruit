@@ -1,4 +1,4 @@
-package com.github.bioce.jackfruit.core;
+package com.github.bioce.jackfruit.util;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,7 +7,6 @@ import java.util.regex.Pattern;
 
 /**
  * @author dingyu
- * @date 2020-04-29 22:50
  */
 public class RegexUtils {
 

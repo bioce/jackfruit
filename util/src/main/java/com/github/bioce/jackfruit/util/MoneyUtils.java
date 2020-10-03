@@ -1,4 +1,4 @@
-package com.github.bioce.jackfruit.core;
+package com.github.bioce.jackfruit.util;
 
 import java.math.BigDecimal;
 import java.util.Objects;
@@ -6,14 +6,13 @@ import java.util.Objects;
 /**
  * 金额相关转换
  * @author bioce
- * @date 2020-04-21 12:29
  */
 public class MoneyUtils {
 
     private static final BigDecimal BD_100 = new BigDecimal(100);
 
     /**
-     * 分 -> 元
+     * 分 to 元
      * @param fen 金额（分）
      * @return 金额（元）
      */
@@ -26,7 +25,7 @@ public class MoneyUtils {
     }
 
     /**
-     * 元 -> 分
+     * 元 to 分
      * @param yuan 金额（元）
      * @return 金额（分）
      */

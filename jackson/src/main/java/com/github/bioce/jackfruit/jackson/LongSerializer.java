@@ -9,7 +9,6 @@ import java.io.IOException;
 
 /**
  * @author bioce
- * @date 2020-04-29 22:09
  */
 public class LongSerializer extends JsonSerializer<Long> {
 

@@ -1,8 +1,7 @@
-package com.github.bioce.jackfruit.core;
+package com.github.bioce.jackfruit.util;
 
 /**
  * @author bioce
- * @date 2020-04-29 22:09
  */
 public class JackfruitException extends RuntimeException {
     public JackfruitException() {

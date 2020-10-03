@@ -3,14 +3,13 @@ package com.github.bioce.jackfruit.jackson;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.github.bioce.jackfruit.core.JackfruitException;
+import com.github.bioce.jackfruit.util.JackfruitException;
 
 import java.util.List;
 import java.util.Map;
 
 /**
  * @author bioce
- * @date 2020-04-22 09:41
  */
 public class Jackson {
     private static ObjectMapper objectMapper;

@@ -1,4 +1,4 @@
-package com.github.bioce.jackfruit.core;
+package com.github.bioce.jackfruit.util;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -6,7 +6,6 @@ import java.util.Date;
 
 /**
  * @author bioce
- * @date 2020-04-21 12:30
  */
 public class DateUtils {
 
