@@ -21,7 +21,7 @@
 
     <properties>
         <compile.version>8</compile.version>
-        <jackson.version>2.10.3</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
         <junit.jupiter.version>5.4.2</junit.jupiter.version>
     </properties>
     <issueManagement>
